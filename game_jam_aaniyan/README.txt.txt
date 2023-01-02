@@ -5,5 +5,5 @@ boxes appear on the screen. Score decducted if player colllides with these butto
 
 Timer is placed on the hud and resets for every level. 
 
-Ran short of time, hence couldnt add game over scene with creduts.
+
 
